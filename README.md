@@ -1,19 +1,29 @@
-# Sale-project-python# Sale-project-python
+## Datenbereinigung, Analyse und Visualisierung
 
-Daten bereinigung , Analyse und visualization
+In diesem Projekt analysieren wir Verkaufsdaten mithilfe von Pandas, Seaborn und Matplotlib, um nützliche geschäftliche Erkenntnisse zu gewinnen.
 
-Daten bereiniegung :
-  1)  die leere zeile eliminieren
-  2) die Datentyp von manche column verändern
-  3) neue column erstellen
+### Datenbereinigung
+  Entfernen leerer Zeilen
 
-Daten Analyse :
-  1) in welchem Monat haben wir am meisten verkauft ?
-  2) in welche stadt haben wir am meisten verkauft ?
-  3) um wie viel uhr ist die beste zeit zu werben ?(anhand die bestellungszeit)
-  4) welche produkt ist am meisten verkauft ?
-  5) welche produkte sind heufig zusammen verkauft ? (gleiche Bestellsnummer)
- 
- visualization :
-  seaborn und matplotlib
+### Anpassen von Datentypen einzelner Spalten (z. B. Datum/Zeit)
+
+### Erstellung neuer Spalten für gezieltere Analysen (z. B. Monat, Uhrzeit, Stadt)
+
+### Datenanalyse – Beantwortete Fragestellungen
+  In welchem Monat wurden die meisten Verkäufe erzielt?
+
+### Welche Stadt hatte den höchsten Umsatz?
+
+### Zu welcher Tageszeit ist die beste Werbezeit?
+  basierend auf dem Bestellzeitpunkt
+
+### Welches Produkt wurde am häufigsten verkauft?
+
+### Welche Produkte wurden häufig zusammen gekauft?
+  anhand gleicher Bestellnummern identifiziert
+
+### Visualisierung
+  Die Daten wurden mit folgenden Bibliotheken visualisiert:
+    Matplotlib
+    Seaborn
   
